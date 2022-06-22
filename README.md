@@ -8,7 +8,7 @@ ___
 ### This is the first project after completing the tutorial on __HTML__ and __CSS__
 
 
-![mysite](Снимок%20экрана%20от%202022-06-22%2016-18-29.png)
+![mysite](img/mysite.png)
 
 
 ## I publish my projects in order to observe the gradation of my results in development :)
